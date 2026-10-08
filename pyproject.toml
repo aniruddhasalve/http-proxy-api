@@ -1,0 +1,9 @@
+[project]
+name = "http-proxy-api"
+version = "0.1.0"
+description = "Controlled HTTP proxy REST API"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
